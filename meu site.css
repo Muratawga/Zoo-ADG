@@ -1,0 +1,115 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:300&subset=latin-ext);
+.divisoria {
+    width: 100%;
+    margin-bottom: 3em;
+}
+
+body {
+    -moz-osx-font-smoothing: grayscale;
+  
+    -ms-flex-direction: column;
+  
+    -webkit-box-direction: normal;
+  
+    -webkit-box-orient: vertical;
+  
+    -webkit-font-smoothing: antialiased;
+  
+    background: #f5f5f5;
+  
+    background-image: url("https://cdn.discordapp.com/attachments/541387607649812500/697072173097156638/Sem_Titulo-1.jpg");
+  
+    background-repeat: no-repeat;
+  
+    background-attachment: fixed;
+  
+    background-size: cover;
+  
+    color: #eeeeee;
+  
+    display: flex;
+  
+    flex-direction: column;
+  
+    font-family: Montserrat, sans-serif;
+  
+    font-size: 1em;
+  
+    font-weight: 300;
+  
+    min-height: 100vh;
+  
+    text-align: justify;
+  }
+.row {
+    display: flex;
+}
+
+.row>div {
+    flex: 1;
+}
+
+h1 {
+    font-size: 72px;
+    color: #ffffff;
+}
+
+h2 {
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: lighter;
+}
+
+h3 {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.texto {
+    margin: 0 auto;
+    transition: all 1s;
+    text-align: left;
+    margin-left: 100px;
+    float: left;
+}
+
+.colimg {
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    transition: all 1s;
+}
+.mapaimg{
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    margin: 0;
+}
+
+#nav {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+#nav > a {
+    color: #eeeeee;
+    margin-inline: 1vw;
+    text-decoration: none;
+}
+
+logozoo{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: right;
+ }
