@@ -5,6 +5,6 @@ Como eu já havia desenvolvido um projeto praticamente igual, eu realizei um git
 
 ## 👨🏽‍💻🐢 Processo de desenvolvimento
 
-O processo de desenvolvimento foi realizado a partir de tarefas separadas entre os alunos. Eu, [Felipe](https://github.com/Muratawga) fiquei responsável pelo desenvolvimento total do site, desde seu conceito,  design, paginas e artes, com [Matheus](https://github.com/Matheus767) desenvolvendo o back-end do projeto, com o banco de dados.
-O site foi desenvolvido totalmente por mim, utilizando HTML5, CSS e  JavaScript, com um simples banco de dados feito com PHP para uma caixa de perguntas.
-A documentação completa do site, detalhando sobre suas funcionalidades e o propósito do site, foi realizado por [Felipe](https://github.com/Muratawga) e [Matheus](https://github.com/Matheus767). Assim, concluindo o projeto por completo.
+O processo de desenvolvimento foi realizado por mim, onde fui responsável pelo desenvolvimento total do site, desde seu conceito,  design, paginas e artes.
+O site foi desenvolvido totalmente por mim, utilizando HTML5, CSS e  JavaScript.
+A documentação completa do site, detalhando sobre suas funcionalidades e o propósito do site, foi realizado por mim. Assim, concluindo o projeto por completo.
